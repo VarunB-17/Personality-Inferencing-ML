@@ -20,9 +20,11 @@ Each instance in the dataset consists of a Reddit user's post from the r/mbti su
 The paper investigates into the possibility of using the Doc2Vec word embedding technology to guess an individual's personality type based on their social media posts. By comparing different classification methods, 
 the accuracy of the model is evaluated. 
 It is concluded that it is indeed possible to use word embedding to classify the personality type of an individual based on their social media posts.
+https://www.overleaf.com/project/624415f2971b3c3cf5b2f378
 
 ## Dataset
 The chosen dataset consists of ~106K records of posts and their authors' personality types. All of the instance are equal-sized: 500 words per sample. In total there are 16 different classes corresponding to the 16 personality combinations.
+https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset
 
 
 ## Conclusion:
