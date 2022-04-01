@@ -21,6 +21,9 @@ The paper investigates into the possibility of using the Doc2Vec word embedding 
 the accuracy of the model is evaluated. 
 It is concluded that it is indeed possible to use word embedding to classify the personality type of an individual based on their social media posts.
 
+## Dataset
+The chosen dataset consists of ~106K records of posts and their authors' personality types. All of the instance are equal-sized: 500 words per sample. In total there are 16 different classes corresponding to the 16 personality combinations.
+
 
 ## Conclusion:
 Our paper concludes that it is indeed possible to use word embedding to classify the personality type of an individual based on their social media posts. With the use of Logistic Regression, it has been demonstrated that personality type of an individual can be inferred to some extent. For that reason, the alternative hypothesis stated in our paper can be rejected.  Additionally, increasing the vector size of a document embedding beyond 80 does not seem to significantly increase the performance of the model overall. Furthermore, the additional assumption can be formulated that Doc2Vec contributed heavily towards the performance of the classification models used. It is recommended to pursue further research in order to validate this assumption.
