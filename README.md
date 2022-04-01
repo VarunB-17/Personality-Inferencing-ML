@@ -5,6 +5,7 @@ A machine learning project where the main objective was to develop a method to i
          * NLTK ---> Pre-processing of data
          * Gensim -> Library for word embedding
          * Pandas ---> Loading data as a pandas dataframe
+
 This is a univerity project done by students from the Vrije Universiteit :
 
          * Varun Behari
